@@ -1,0 +1,91 @@
+absl-py==1.1.0
+albumentations==1.2.1
+astunparse==1.6.3
+blis==0.7.8
+brotlipy==0.7.0
+cachetools==5.2.0
+catalogue==2.0.7
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_83242e7e-f82d-4a71-8ef2-9d71d212d249gu_wxmeq/croots/recipe/certifi_1655968827803/work/certifi
+cffi @ file:///Users/builder/ci_310/cffi_1643393868399/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.3
+cryptography @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b470f7cb-c8f1-42c9-b84f-23789ea77e7c9difcqh4/croots/recipe/cryptography_1652101134392/work
+cymem==2.0.6
+flatbuffers==1.12
+gast==0.4.0
+google-auth==2.9.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.47.0
+h5py==3.7.0
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+imageio==2.19.3
+Jinja2==3.1.2
+joblib==1.1.0
+keras==2.9.0
+Keras-Preprocessing==1.1.2
+langcodes==3.3.0
+libclang==14.0.1
+Markdown==3.3.7
+MarkupSafe==2.1.1
+mkl-fft==1.3.1
+mkl-random @ file:///opt/concourse/worker/volumes/live/a9eca864-069c-4240-73c8-4e51b036a10d/volume/mkl_random_1639994047876/work
+mkl-service==2.4.0
+murmurhash==1.0.7
+networkx==2.8.4
+numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e3f85f54-0572-4c0e-b190-4bc4766fc3fenewxarhq/croots/recipe/numpy_and_numpy_base_1652801682879/work
+oauthlib==3.2.0
+opencv-python-headless==4.6.0.66
+opt-einsum==3.3.0
+packaging==21.3
+pandas==1.4.3
+pathy==0.6.2
+Pillow==9.0.1
+preshed==3.0.6
+protobuf==3.19.4
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==1.8.2
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing==3.0.9
+PySocks @ file:///Users/builder/ci_310/pysocks_1642536366386/work
+python-dateutil==2.8.2
+pytz==2022.1
+PyWavelets==1.3.0
+PyYAML==6.0
+qudida==0.0.4
+requests @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_798c8e80-3a12-459e-9763-91e91aec7e0btbjs6ic_/croots/recipe/requests_1656438155766/work
+requests-oauthlib==1.3.1
+rsa==4.8
+scikit-image==0.19.3
+scikit-learn==1.1.1
+scipy==1.8.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smart-open==5.2.1
+spacy==3.3.1
+spacy-legacy==3.0.9
+spacy-loggers==1.0.2
+srsly==2.4.3
+tensorboard==2.9.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.9.1
+tensorflow-estimator==2.9.0
+tensorflow-io-gcs-filesystem==0.26.0
+termcolor==1.1.0
+thinc==8.0.17
+threadpoolctl==3.1.0
+tifffile==2022.5.4
+torch==1.13.0.dev20220703
+torchaudio==0.13.0.dev20220703
+torchtext==0.6.0
+torchvision==0.14.0.dev20220703
+tqdm @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6cb3db64-b7e1-4db2-ab0b-f944920e5367lekntvc5/croots/recipe/tqdm_1650891088614/work
+typer==0.4.2
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
+urllib3 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0b00bbfb-4d57-4b5b-af70-5677ec53f4ac495c5h1w/croots/recipe/urllib3_1650637219008/work
+wasabi==0.9.1
+Werkzeug==2.1.2
+wrapt==1.14.1
